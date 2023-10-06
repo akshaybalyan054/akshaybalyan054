@@ -24,14 +24,6 @@ akshay-balyan-a8ba82210
 ](
 https://www.linkedin.com/in/akshay-balyan-a8ba82210/
 )
-![
-Profile Views
-](
-https://komarev.com/ghpvc/?username=akshaybalyan054&color=dark
-)
-![
-GitHub Trophies
-](
-https://github-profile-trophy.vercel.app/?username=akshaybalyan054&theme=darkhub
-)
+
+![GitHub Followers](https://img.shields.io/github/followers/akshaybalyan054?label=Followers&style=social)
 
