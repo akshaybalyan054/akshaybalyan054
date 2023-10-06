@@ -24,11 +24,14 @@ akshay-balyan-a8ba82210
 ](
 https://www.linkedin.com/in/akshay-balyan-a8ba82210/
 )
-### Visitors
 ![
-Visitors
+Profile Views
 ](
-https://visitor-badge.glitch.me/badge?page_id=akshaybalyan054.your-repo
+https://komarev.com/ghpvc/?username=akshaybalyan054&color=dark
+)
+![
+GitHub Trophies
+](
+https://github-profile-trophy.vercel.app/?username=akshaybalyan054&theme=darkhub
 )
 
-Thanks for visiting my profile! 😄
