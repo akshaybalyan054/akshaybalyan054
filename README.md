@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**akshaybalyan054/akshaybalyan054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Akshay Balyan👋
 
-Here are some ideas to get you started:
+ 🌱 I’m currently learning WEB development.
+-
+ 📫 How to reach me: balyanaksha878@gmail.com
+-
+ 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+
+![
+Your GitHub Stats
+](
+https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark
+)
+
+## My Top Languages
+
+
+![
+Top Languages
+](
+https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark
+)
+
+## Connect with Me
+-
+ LinkedIn: [
+Your LinkedIn Profile
+](
+https://www.linkedin.com/in/akshay-balyan-a8ba82210/
+)
